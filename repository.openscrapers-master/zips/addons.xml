@@ -3,9 +3,9 @@
 <addon id="repository.openscrapers" name="OpenScrapers Repository" version="1.0" provider-name="LUSD">
 	<extension point="xbmc.addon.repository" name="OpenScrapers Repository">
 	       <dir>
-        	   <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers-master/zips/addons.xml</info>
-        	   <checksum>https://https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers-master/zips/addons.xml.md5</checksum>
-        	   <datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers-master/zips/</datadir>
+        	   <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers/zips/addons.xml</info>
+        	   <checksum>https://https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers/zips/addons.xml.md5</checksum>
+        	   <datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers/zips/</datadir>
     	       </dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
