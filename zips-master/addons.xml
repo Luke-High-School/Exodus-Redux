@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.video.exodusredux" version="2.0.3a" name="Exodus Redux" provider-name="I-A-C">
+<addon id="plugin.video.exodusredux" version="2.0.3a" name="Exodus Redux" provider-name="LUSD>
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="script.module.exodusredux" />
@@ -31,22 +31,22 @@
 	</extension>
 </addon>
 
-<addon id="repository.exodusredux" name="Exodus Redux Repo" version="0.0.9" provider-name="I-A-C">
+<addon id="repository.exodusredux" name="Exodus Redux Repo" version="0.0.9" provider-name="LUSD">
     <extension point="xbmc.addon.repository" name="Exodus Redux Repo">
     <dir>
-        <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zips-master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zips-master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zips-master/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zips/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zips/</datadir>
     </dir>
     <dir>
-        <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers-master/zips/addons.xml</info>
-        <checksum>https://https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers-master/zips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers-master/zips/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers/zips/addons.xml</info>
+        <checksum>https://https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers/zips/</datadir>
     </dir>
     <dir>
-	<info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zip-master2/addons.xml</info>
-	<checksum>https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zip-master2/addons.xml.md5</checksum>
-	<datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/zip-master2/</datadir>
+	<info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.jsergio/addons.xml</info>
+	<checksum>https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.jsergio/addons.xml.md5</checksum>
+	<datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.jsergio/</datadir>
     </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -56,7 +56,7 @@
     </extension>
 </addon>
 
-<addon id="script.exodusredux.artwork" version="1.0.2" name="Exodus Redux Artwork" provider-name="I-A-C">
+<addon id="script.exodusredux.artwork" version="1.0.2" name="Exodus Redux Artwork" provider-name="LUSD">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -68,7 +68,7 @@
 	</extension>
 </addon>
 
-<addon id="script.exodusredux.metadata" version="1.0.2" name="Exodus Redux Metadata" provider-name="I-A-C">
+<addon id="script.exodusredux.metadata" version="1.0.2" name="Exodus Redux Metadata" provider-name="LUSD">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 	</requires>
@@ -80,7 +80,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.beautifulsoup4" name="BeautifulSoup4" version="4.5.3" provider-name="Leonard Richardson (leonardr@segfault.org)">
+<addon id="script.module.beautifulsoup4" name="BeautifulSoup4" version="4.5.3" provider-name="LUSD">
 	<requires>
 		<import addon="xbmc.python" version="2.25.0"/>
 	</requires>
@@ -95,7 +95,7 @@
   </extension>
 </addon>
 
-<addon id="script.module.exodusredux" name="Exodus Redux Module" version="2.0.5" provider-name="I-A-C">
+<addon id="script.module.exodusredux" name="Exodus Redux Module" version="2.0.5" provider-name="LUSD">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.beautifulsoup4"/>
@@ -107,7 +107,7 @@
 	</extension>
 </addon>
 
-<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="2.0.0" provider-name="I-A-C">
+<addon id="script.module.lambdascrapers" name="Lambdascrapers Module" version="2.0.0" provider-name="LUSD">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.beautifulsoup4"/>
