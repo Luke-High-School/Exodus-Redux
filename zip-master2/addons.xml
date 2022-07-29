@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.38" provider-name="jsergio">
+<addon id="script.module.resolveurl" name="ResolveURL" version="5.0.38" provider-name="LUSD">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="plugin.video.youtube" optional="true" />
@@ -20,7 +20,7 @@
         <description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
     </extension>
 </addon>
-<addon id="script.module.resolveurl.xxx" version="2.0.1" name="Adult Resolver SMR Extension" provider-name="jsergio, Echo Coder">
+<addon id="script.module.resolveurl.xxx" version="2.0.1" name="Adult Resolver SMR Extension" provider-name="LUSD">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.resolveurl" version="5.0.00" />
@@ -93,15 +93,15 @@
         <website>https://beautifier.io/</website>
     </extension>
 </addon>
-<addon id="repository.jsergio" name="jsergio repo" version="1.0.4" provider-name="jsergio">
+<addon id="repository.jsergio" name="jsergio repo" version="1.0.4" provider-name="LUSD">
 	<extension point="xbmc.addon.repository" name="jsergio repo">
-        <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.jsergio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.jsergio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.jsergio/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Repo for jsergio Add-ons</summary>
-		<description>Repo for jsergio Add-ons</description>
+		<summary>Repo for LUSD Add-ons</summary>
+		<description>Repo for LUSD Add-ons</description>
 		<platform>all</platform>
 	</extension>
 </addon>
