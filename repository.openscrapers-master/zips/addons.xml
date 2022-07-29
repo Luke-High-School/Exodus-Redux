@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.openscrapers" name="OpenScrapers Repository" version="1.0" provider-name="A4K">
+<addon id="repository.openscrapers" name="OpenScrapers Repository" version="1.0" provider-name="LUSD">
 	<extension point="xbmc.addon.repository" name="OpenScrapers Repository">
 	       <dir>
         	   <info compressed="false">https://raw.githubusercontent.com/Luke-High-School/Exodus-Redux/main/repository.openscrapers-master/zips/addons.xml</info>
